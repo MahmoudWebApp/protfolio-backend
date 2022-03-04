@@ -1,0 +1,260 @@
+{
+    "en": {
+        "about": {
+            "title": "Raed Jomaa",
+            "description": "human resources clerk",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis rem provident iusto praesentium. Laborum id maxime, adipisci ab commodidolorum ex minima omnis odio perspiciatis obcaecati aliquid fugiat! A, explicabo."
+        },
+        "personal": {
+            "titleLeft": "personal",
+            "titleRight": "information",
+            "data": [
+                {
+                    "id": "1",
+                    "title": "data & place of birthday",
+                    "value": "1988 damascus syria"
+                },
+                {
+                    "id": "2",
+                    "title": "nationality",
+                    "value": "palestine syrian"
+                },
+                {
+                    "id": "3",
+                    "title": "military service",
+                    "value": "done"
+                },
+                {
+                    "id": "4",
+                    "title": "gender",
+                    "value": "male"
+                },
+                {
+                    "id": "5",
+                    "title": "marital status",
+                    "value": "single"
+                },
+                {
+                    "id": "5",
+                    "title": "driving license",
+                    "value": "traffick branch,rural damascus b"
+                }
+            ]
+        },
+        "courses": {
+            "title": "my courses",
+            "course": [
+                {
+                    "id": 1,
+                    "title": "hr",
+                    "content": {
+                        "name": "Human Resources Management",
+                        "data": "Oct,2021 ",
+                        "description": "Mahmoud Ahmed"
+                    }
+                },
+                {
+                    "id": 2,
+                    "title": "hr",
+                    "content": {
+                        "name": "HumanResourcesManagement",
+                        "data": "Oct,2021 ",
+                        "description": "IHRM"
+                    }
+                },
+                {
+                    "id": 3,
+                    "title": "hr",
+                    "content": {
+                        "name": "HumanResourcesManagement",
+                        "data": "Oct,2021 ",
+                        "description": "IHRM"
+                    }
+                },
+                {
+                    "id": 4,
+                    "title": "hr",
+                    "content": {
+                        "name": "HumanResourcesManagement",
+                        "data": "Oct,2021 ",
+                        "description": "IHRM"
+                    }
+                },
+                {
+                    "id": 5,
+                    "title": "hr",
+                    "content": {
+                        "name": "HumanResourcesManagement",
+                        "data": "Oct,2021 ",
+                        "description": "IHRM"
+                    }
+                },
+                {
+                    "id": 6,
+                    "title": "hr",
+                    "content": {
+                        "name": "HumanResourcesManagement",
+                        "data": "Oct,2021 ",
+                        "description": "IHRM"
+                    }
+                },
+                {
+                    "id": 7,
+                    "title": "hr",
+                    "content": {
+                        "name": "HumanResourcesManagement",
+                        "data": "Oct,2021 ",
+                        "description": "IHRM"
+                    }
+                },
+                {
+                    "id": 8,
+                    "title": "hr",
+                    "content": {
+                        "name": "HumanResourcesManagement",
+                        "data": "Oct,2021 ",
+                        "description": "IHRM"
+                    }
+                },
+                {
+                    "id": 9,
+                    "title": "hr",
+                    "content": {
+                        "name": "HumanResourcesManagement",
+                        "data": "Oct,2021 ",
+                        "description": "IHRM"
+                    }
+                }
+            ]
+        }
+    },
+    "ar": {
+        "about": {
+            "title": "رائد جمعة",
+            "description": "موظف موارد بشرية",
+            "text": "خريج كلية اقتصاد منذ 2020 وقد انجزت عدة كورسات بدرجة امتياز ولدي خبرة كافية بالموارد البشرية "
+        },
+        "personal": {
+            "titleLeft": "المعلومات",
+            "titleRight": "الشخصية",
+            "data": [
+                {
+                    "id": "1",
+                    "title": " : مكان الولادة وتاريح الميلاد",
+                    "value": "سوريا دمشق 1988"
+                },
+                {
+                    "id": "2",
+                    "title": " : الجنسية",
+                    "value": "فلسطيني سوري"
+                },
+                {
+                    "id": "3",
+                    "title": " : الخدمة العسكرية",
+                    "value": "منتهي"
+                },
+                {
+                    "id": "4",
+                    "title": " : الحنس",
+                    "value": "ذكر"
+                },
+                {
+                    "id": "5",
+                    "title": " : الوضع العائلي",
+                    "value": "عازب"
+                },
+                {
+                    "id": "5",
+                    "title": " : شهادة السياقة",
+                    "value": "فرع دمشق فئة ب"
+                }
+            ]
+        },
+        "courses": {
+            "title": "my courses",
+            "course": [
+                {
+                    "id": 1,
+                    "title": "hr",
+                    "content": {
+                        "name": "HumanResourcesManagement",
+                        "data": "Oct,2021",
+                        "description": "IHRM"
+                    }
+                },
+                {
+                    "id": 2,
+                    "title": "hr",
+                    "content": {
+                        "name": "HumanResourcesManagement",
+                        "data": "Oct,2021",
+                        "description": "IHRM"
+                    }
+                },
+                {
+                    "id": 3,
+                    "title": "hr",
+                    "content": {
+                        "name": "HumanResourcesManagement",
+                        "data": "Oct,2021 ",
+                        "description": "IHRM"
+                    }
+                },
+                {
+                    "id": 4,
+                    "title": "hr",
+                    "content": {
+                        "name": "HumanResourcesManagement",
+                        "data": "Oct,2021 ",
+                        "description": "IHRM"
+                    }
+                },
+                {
+                    "id": 5,
+                    "title": "hr",
+                    "content": {
+                        "name": "HumanResourcesManagement",
+                        "data": "Oct,2021 ",
+                        "description": "IHRM"
+                    }
+                },
+                {
+                    "id": 6,
+                    "title": "hr",
+                    "content": {
+                        "name": "HumanResourcesManagement",
+                        "data": "Oct,2021 ",
+                        "description": "IHRM"
+                    }
+                },
+                {
+                    "id": 7,
+                    "title": "hr",
+                    "content": {
+                        "name": "HumanResourcesManagement",
+                        "data": "Oct,2021 ",
+                        "description": "IHRM"
+                    }
+                },
+                {
+                    "id": 8,
+                    "title": "hr",
+                    "content": {
+                        "name": "HumanResourcesManagement",
+                        "data": "Oct,2021 ",
+                        "description": "IHRM"
+                    }
+                },
+                {
+                    "id": 9,
+                    "title": "hr",
+                    "content": {
+                        "name": "HumanResourcesManagement",
+                        "data": "Oct,2021 ",
+                        "description": "IHRM"
+                    }
+                }
+            ]
+        }
+    }
+}
